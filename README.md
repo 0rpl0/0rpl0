@@ -6,7 +6,7 @@
 - ⚒️Technik serwera: **ServampMC.pl, GunMC.pl**
 
 <h3 align="left">Skontaktuj się ze mną:</h3>
-<p align="left">Discord: orplo#1102
+<a href="https://discord.com/users/973216570065174549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfdfd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Języki których się uczę:</h3>
