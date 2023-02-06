@@ -1,5 +1,5 @@
 <h1 align="center">Cześć 👋, Jestem Mateusz</h1>
-<h3 align="center">Jestem developerem minecraft, discord a także programistą. Tworzę gry głównie na telefony</h3>
+<h3 align="center"><3 HTML && C# <3</h3>
 
 - 🔭 Pracuję właśnie nad grą **The Island** i **Another shooter**
 
