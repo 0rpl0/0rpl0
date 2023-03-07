@@ -6,7 +6,7 @@
 - ⚒️Technik serwera: **ServampMC.pl, GunMC.pl**
 
 <h3 align="left">Skontaktuj się ze mną:</h3>
-<a href="discord://discord.com/users/973216570065174549" target="discord://"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfdfd" height="30" width="40" /></a>
+<a href="discord.com/users/973216570065174549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfdfd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Języki których się uczę:</h3>
