@@ -1,3 +1,8 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+
+
 <h1 align="center">Cześć 👋, Jestem Mateusz</h1>
 <h3 align="center"><3 (HTML && C#) <3</h3>
 
@@ -6,7 +11,9 @@
 - ⚒️Technik serwera: **ServampMC.pl, GunMC.pl**
 
 <h3 align="left">Skontaktuj się ze mną:</h3>
-<a href="https://discord.com/users/973216570065174549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfdfd" height="30" width="40" /></a>
+<a href="discord://discord.com/users/973216570065174549" class="discordbttn">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfdfd" height="30" width="40" style="max-width: 100%;">
+</a>
 </p>
 
 <h3 align="left">Języki których się uczę:</h3>
