@@ -1,7 +1,7 @@
 <h1 align="center">Cześć 👋, Jestem Mateusz</h1>
 <h3 align="center"><3 (HTML && C#) <3</h3>
 
-- 🔭 Pracuję właśnie nad grą **The Island**, **Racing Game** i **Runner**
+- 🔭 Pracuję właśnie nad grą **Racing Game**
 
 - ⚒️Technik serwera: **ServampMC.pl, GunMC.pl**
 
